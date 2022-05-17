@@ -156,7 +156,7 @@ if __name__ == "__main__":
     display = planktoscope.display.Display()
 
     logger.success("Looks like everything is set up and running, have fun!")
-    planktoscope.light.ready()
+    ## planktoscope.light.ready()
 
     while run:
         # TODO look into ways of restarting the dead threads
