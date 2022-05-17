@@ -10,5 +10,8 @@
     "wb_blue_gain": 1.41,
     "analog_gain": 1,
     "digital_gain": 1,
-    "acq_fnumber_objective": 16
+    "acq_fnumber_objective": 25,
+    "camera_type": "HQ",
+    "red_gain": 1,
+    "blue_gain": 1
 }
