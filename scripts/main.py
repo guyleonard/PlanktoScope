@@ -51,7 +51,7 @@ import planktoscope.imager
 import planktoscope.segmenter
 
 # Import the planktoscope LED module
-import planktoscope.light
+## import planktoscope.light
 
 # Import the planktoscope uuidName module
 import planktoscope.uuidName
