@@ -16,7 +16,7 @@ import planktoscope.uuidName
 
 
 class Display(object):
-    display_available = True
+    display_available = False
 
     def __init__(self):
         # Raspberry Pi pin configuration:
